@@ -1,0 +1,4 @@
+numpy==1016.2
+h5py==1.11.0
+matplotlib==3.0.3
+tensorflow==1.13.1
