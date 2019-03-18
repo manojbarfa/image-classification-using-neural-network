@@ -11,4 +11,4 @@ Launching Jupyter Notebook App by typing in a terminal (cmd on Windows):
 ```
 jupyter notebook
 ```
-Now run the file imageClassificationUsingNN.ipynb
+Now run the file image_classification_using_nn.ipynb
